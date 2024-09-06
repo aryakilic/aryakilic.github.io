@@ -17,7 +17,7 @@ ul {
   li a {
     display: block;
     color: rgba(248, 243, 243, 0);
-    text-align: center;
+    text-align: start;
     padding: 14px 16px;
     text-decoration: none;
   }
