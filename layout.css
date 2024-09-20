@@ -1,5 +1,5 @@
 body { 
-    background-color: rgba(66, 63, 139, 0.53);
+    background-color: rgba(167, 166, 210, 0.53);
 }
 
 ul {
@@ -7,7 +7,7 @@ ul {
     margin: 10;
     padding: 0;
     overflow: hidden;
-    background-color: #3e1f8e;
+    background-color: #0e0f5d;
   }
   
   li {
@@ -24,7 +24,7 @@ ul {
   
   
   li a:hover {
-    background-color: #1b195c;
+    background-color:rgba(167, 166, 210, 0.53)
   }
 
   
