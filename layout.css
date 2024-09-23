@@ -7,7 +7,7 @@ ul {
     margin: 10;
     padding: 0;
     overflow: hidden;
-    background-color: #b83f49;
+    background-color: #b0434c;
   }
   
   li {
@@ -16,7 +16,7 @@ ul {
   
   li a {
     display: block;
-    color: #f9f3f3fb;
+    color: #0f0f0ffb;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
