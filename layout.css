@@ -25,6 +25,9 @@ ul {
   
   li a:hover {
     background-color:rgb(222, 161, 168, 0.53)
-  }
+  } 
+p {
+width: 50%
+}
 
   
