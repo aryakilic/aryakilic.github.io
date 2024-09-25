@@ -12,7 +12,7 @@ ul {
   
   li {
     float: left; 
-  }
+  } /*dit geeft aan de het menu(-balkje), aan de linkerkant van de website staat. Als je 'right' doet, staat ie rechts.*/ 
   
   li a {
     display: block;
