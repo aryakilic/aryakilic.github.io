@@ -11,7 +11,7 @@ ul {
   } /*dit is de kleur van het menu (-balkje)*/
   
   li {
-    float: right; 
+    float: left; 
   }
   
   li a {
