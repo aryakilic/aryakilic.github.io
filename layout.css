@@ -1,5 +1,5 @@
 body { 
-    background-color: rgba(222, 161, 168, 0.53); /*achtergrondkleur van alle pagina's op de website*\ 
+    background-color: rgba(222, 161, 168, 0.53); /*achtergrondkleur van alle pagina's op de website*/
 }
 
 ul {
@@ -25,9 +25,10 @@ ul {
   
   li a:hover {
     background-color:rgb(222, 161, 168, 0.53)
-  } 
+  } /*dit geeft aan als je over je menu 
+
 p {
 width: 75%
-}
+} /*dit geeft aan hoe minder breed/compacter de teksten op de pagina's van de website komt te staan. Ik heb hier 75%, als je 50% doet, wordt ie nog minder breed.*/
 
   
