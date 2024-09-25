@@ -31,19 +31,3 @@ p {
 width: 75%
 } /*dit geeft aan hoe minder breed/compacter de teksten op de pagina's van de website komt te staan. Ik heb hier 75%, als je 50% doet, wordt ie nog minder breed.*/
 
-<style>
-.footer {
-  position: fixed;
-  left: 100%;
-  bottom: 100%;
-  width: 100%;
-  background-color: rgba(222, 161, 168, 0.53)
-  color: black;
-  text-align: center;
-}
-</style>
-
-<div class="footer">
-  <p>©2024 Arya Kilic - Alle rechten voorbehouden.</p>
-</div>
-  
