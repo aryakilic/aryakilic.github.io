@@ -38,12 +38,12 @@ html, body {
 
 .footer {
   position: fixed;
-  border-bottom-left-radius: 0;
+  bottom: ;: 0;
   left: 0;
   width: 100%;
   background-color: rgba(222, 161, 168, 0.53);
   color: rgb(17, 2, 2)7, 2, 2;
-  padding: 20px;
+  padding: 10px;
   text-align: left;
   font-size: 14px;
 }
