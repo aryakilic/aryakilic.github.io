@@ -8,10 +8,10 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #e1688a;
-  }
+  } /*dit is de kleur van het menu (-balkje)*/
   
   li {
-    float: left;
+    float: right; /*
   }
   
   li a {
@@ -20,12 +20,12 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+  } /*dit stukje gaat over de letters, dus welke kleur de tekst moet zijn, wat de dikte van het opvulgebied moet zijn */ 
   
   
   li a:hover {
     background-color:rgb(222, 161, 168, 0.53)
-  } /*dit geeft aan als je over je menu 
+  } /*dit geeft aan als je over je menu heen gaat 'hoveren', je een andere kleur ziet. Ik heb ervoor gekozen dat het dan donkerder is.*/
 
 p {
 width: 75%
