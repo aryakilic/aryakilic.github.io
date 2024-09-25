@@ -31,3 +31,20 @@ p {
 width: 75%
 } /*dit geeft aan hoe minder breed/compacter de teksten op de pagina's van de website komt te staan. Ik heb hier 75%, als je 50% doet, wordt ie nog minder breed.*/
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(222, 161, 168, 0.53);
+  color: rgb(17, 2, 2)7, 2, 2);
+  padding: 10px;
+  text-align: left;
+  font-size: 14px;
+}
+
