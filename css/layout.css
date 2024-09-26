@@ -39,6 +39,11 @@ margin: 25px;
 h1{
 margin: 25px;
 }
+
+img {
+margin: 25px;
+}
+
 html, body {
   height: 75%;
   margin: 0;
