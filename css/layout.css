@@ -44,6 +44,10 @@ img {
 margin: 25px;
 }
 
+iframe {
+margin: 25px;
+}
+
 html, body {
   height: 75%;
   margin: 0;
