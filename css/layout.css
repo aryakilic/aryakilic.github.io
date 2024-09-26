@@ -33,19 +33,19 @@ width: 75%
 } /*dit geeft aan hoe minder breed/compacter de teksten op de pagina's van de website komt te staan. Ik heb hier 75%, als je 50% doet, wordt ie nog minder breed.*/
 
 h2 {
-margin: 25px;
+margin: 25px; /*dit geeft aan hoeveel ruimte er is van alle tekst en de kant met h2*/
 }
 
 h1{
-margin: 25px;
+margin: 25px; /*dit geeft aan hoeveel ruimte er is van alle tekst en de kant met h1*/
 }
 
 img {
-margin: 25px;
+margin: 25px; /*dit geeft aan hoeveel ruimte er is tussen alle plaatjes en de kant*/
 }
 
 iframe {
-margin: 25px;
+margin: 25px; /*dit geeft aan hoeveel ruimte er is tussen het filmpje/spelletje en de kant */
 }
 
 html, body {
@@ -63,5 +63,5 @@ html, body {
   padding: 10px;
   text-align: left;
   font-size: 14px;
-}
+} /*dit geeft aan hoe de footer eruit ziet, dus achtergrondkleur van het balk, aan welke kant de tekst staat, tekstkleur, vastzittend bodem*/
 
