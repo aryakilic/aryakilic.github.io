@@ -28,6 +28,7 @@ ul {
   } /*dit geeft aan als je over je menu heen gaat 'hoveren', je een andere kleur ziet. Ik heb ervoor gekozen dat het dan donkerder is.*/
 
 p {
+margin: 50px;
 width: 75%
 } /*dit geeft aan hoe minder breed/compacter de teksten op de pagina's van de website komt te staan. Ik heb hier 75%, als je 50% doet, wordt ie nog minder breed.*/
 
