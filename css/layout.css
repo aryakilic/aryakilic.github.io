@@ -32,6 +32,13 @@ margin: 25px;
 width: 75%
 } /*dit geeft aan hoe minder breed/compacter de teksten op de pagina's van de website komt te staan. Ik heb hier 75%, als je 50% doet, wordt ie nog minder breed.*/
 
+h2 {
+margin: 25px;
+}
+
+h1{
+margin: 25px;
+}
 html, body {
   height: 75%;
   margin: 0;
